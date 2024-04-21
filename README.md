@@ -46,6 +46,11 @@ npm start
 
 5. Open your browser and visit http://localhost:3000 to view the app.
 
+## Screenshots
+
+<img width="861" alt="MovieLand" src="https://github.com/kostaskaplanis2001/MovieLand/assets/84383274/18ddfe2e-2a02-4233-961f-bb617c795c50">
+
+
 ## Credits
 
 This app was created by studying the tutorial provided by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery). A big thank you to them for the valuable guidance and insights shared in their tutorial!
